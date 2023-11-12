@@ -1,4 +1,4 @@
-Two of my posters that I designed.
+Two of my posters that I designed ([poster_1](https://github.com/EwaSzlachcic/Posters/blob/main/Szlachcic_Ewa_Evolution%20in%20Action_2023_poster_final.pdf), [poster_2](https://github.com/EwaSzlachcic/Posters/blob/main/Szlachcic_Ewa_SEB_2023_poster_final.pdf)).
 
 ### Conferences attended
 
